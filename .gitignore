@@ -1,3 +1,22 @@
+# Data (large & reproducible files)
+data/raw/
+data/processed/
+
+# Trained models (can be regenerated)
+models/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

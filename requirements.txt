@@ -1,0 +1,21 @@
+# Core
+numpy
+pandas
+scikit-learn
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Modeling
+xgboost
+lightgbm
+catboost
+
+# Utilities
+joblib
+tqdm
+
+# Notebooks
+jupyter
