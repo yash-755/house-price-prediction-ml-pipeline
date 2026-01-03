@@ -38,20 +38,26 @@ and produces reliable price predictions.
 
 ## Project Structure
 
+```text
+house-price-prediction-ml-pipeline/
+│
 ├── data/
-│ ├── raw/
-│ └── processed/
+│   ├── raw/                 # Original dataset
+│   └── processed/           # Cleaned & processed data
+│
 ├── notebooks/
-│ └── exploratory_analysis.ipynb
+│   └── exploratory_analysis.ipynb
+│
 ├── src/
-│ ├── data_preprocessing.py
-│ ├── feature_engineering.py
-│ ├── train_model.py
-│ └── evaluate_model.py
+│   ├── data_preprocessing.py
+│   ├── feature_engineering.py
+│   ├── train_model.py
+│   └── evaluate_model.py
+│
 ├── requirements.txt
 └── README.md
 
----
+```
 
 ## Machine Learning Pipeline
 
