@@ -32,7 +32,7 @@ and produces reliable price predictions.
 - NumPy  
 - Pandas  
 - Matplotlib / Seaborn  
-- Scikit-learn  
+- Scikit-learn 
 
 ---
 
