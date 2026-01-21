@@ -15,7 +15,7 @@ by designing a robust machine learning pipeline that learns these relationships 
 and produces reliable price predictions.
 
 --- 
-
+ 
 ## Objectives
 
 - Build a clean and reproducible machine learning pipeline  
