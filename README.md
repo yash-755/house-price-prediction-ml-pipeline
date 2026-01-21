@@ -14,7 +14,7 @@ between property attributes and market value. This project aims to address this 
 by designing a robust machine learning pipeline that learns these relationships from data
 and produces reliable price predictions.
 
----
+--- 
 
 ## Objectives
 
