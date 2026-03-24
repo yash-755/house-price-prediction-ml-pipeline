@@ -5,7 +5,7 @@ It focuses on building a clean, reproducible, and extensible workflow covering d
 preprocessing, exploratory data analysis, feature engineering, model training, and evaluation.
 
 ---
-
+ 
 ## Problem Statement
 
 Accurate house price estimation is a critical problem in real estate and urban planning.
@@ -14,7 +14,7 @@ between property attributes and market value. This project aims to address this 
 by designing a robust machine learning pipeline that learns these relationships from data
 and produces reliable price predictions.
 
----
+--- 
 
 ## Objectives
 
@@ -32,7 +32,7 @@ and produces reliable price predictions.
 - NumPy  
 - Pandas  
 - Matplotlib / Seaborn  
-- Scikit-learn  
+- Scikit-learn 
 
 ---
 
